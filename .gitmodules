@@ -1,3 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = ../HierarchyChatBot-backend
 [submodule "frontend"]
 	path = frontend
 	url = ../HierarchyChatBot-frontend
