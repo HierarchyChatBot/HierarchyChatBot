@@ -29,6 +29,18 @@ docker compose up
 * ollama
   * ```ollama serve```
 
+## Electron Wrapper
+If you don't like use browser, you can use electron wrapper:
+
+* To run the Electron wrapper
+```npm start```
+
+* Building the Application
+```
+npm install
+npm run build
+```
+
 
 ## Contributing
 
