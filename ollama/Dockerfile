@@ -19,6 +19,9 @@ RUN chmod +x ./init_ollama.sh
 # Run the init_ollama script during the build
 RUN ./init_ollama.sh
 
+# Set the environment variable for ollama
+ENV OLLAMA_HOST=0.0.0.0:11434
+
 # Expose the port ollama will use
 EXPOSE 11434
 
