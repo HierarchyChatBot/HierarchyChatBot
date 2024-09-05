@@ -23,8 +23,11 @@ services:
   ollama:
     build:
       context: ./ollama
+    volumes:
+      - ./ollama/src:/app/src
     ports:
       - "127.0.0.1:11434:11434"
+      - "127.0.0.1:11435:11435"
     deploy:
       resources:
         reservations:
@@ -40,6 +43,7 @@ services:
       context: ./nginx
     ports:
       - "8080:80"
+      - "443:443"
     depends_on:
       - backend
       - ollama
