@@ -7,3 +7,6 @@
 [submodule "examples"]
 	path = examples
 	url = ../examples
+[submodule "ollama"]
+	path = ollama
+	url = ../ollama
