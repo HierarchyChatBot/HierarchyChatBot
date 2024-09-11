@@ -1,6 +1,6 @@
 # HierarchyChatBot System
 
-**Automate your workflow and boost productivity with AI-powered pipelines. Effortlessly create and distribute content, streamline business processes, and personalize daily tasks—all from one simple, reusable system designed for explosive growth.**
+**Automate your workflow and boost productivity with AI-powered pipelines. Effortlessly create and distribute content, streamline business processes, and personalize daily tasks—all from one simple, duplicatable, reusable system designed for explosive growth.**
 
 
 ## Revolutionize Your Workflow with AI-Powered Automation
